@@ -1,11 +1,11 @@
-Введение в работу __Convolutional Recurrent Neural Networks (CRNN)__ 
+Введение в работу __Convolutional Recurrent Neural Networks (CRNN)__ используя _PyTorch_  
 Туториал можно просмотреть в jupyter notebook  
 ![Alt text](imgs/crnn-archit.png?raw=true "Original CRNN Architecure")  
 Процесс тренировки сети написан в __CRNN Training.ipynb__   
 Вместо VGG сети которая использовалсь в статье для основы был использован Resnet18, но ничто не мешает вам поменять ее.  
  
 __Requirements:__   
-_pytorch >= 1.0.0_
+_pytorch >= 1.0.0_  
 
 Слайды сделаны на основе статей: https://arxiv.org/abs/1507.05717 и https://arxiv.org/abs/1811.04256  
 

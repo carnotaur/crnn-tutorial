@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 train_val_split.py
 imgs/screenshots/
+*.pyc
+__pycache__
